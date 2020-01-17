@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\bin\Debug\SevenSegmentCamcam.exe.config
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\bin\Debug\SevenSegmentCamcam.exe
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\bin\Debug\SevenSegmentCamcam.pdb
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\bin\Debug\SevenSegmentCamcam.xml
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.Form1.resources
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.Resources.resources
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.exe
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.xml
+C:\Users\acer\source\repos\SevenSegmentCamcam\SevenSegmentCamcam\obj\Debug\SevenSegmentCamcam.pdb
